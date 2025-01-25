@@ -81,3 +81,16 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - **Deezer** 🇫🇷: Global music streaming. [Website](https://deezer.com)
 - **Qobuz** 🇫🇷: High-resolution streaming. [Website](https://qobuz.com)
 - **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
+
+## Contributions
+
+Contributions are welcome! 🎉
+
+Here’s how you can help:
+1. **Suggest new entries**: Open an issue on GitHub with your suggestion.
+2. **Submit a pull request**: Add your entry directly by forking the repository and submitting a pull request.
+
+Follow this format for new entries:
+`- **Service Name** (Country): Description. [Website Link]`
+
+Let’s grow this list together. 
