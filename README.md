@@ -1,6 +1,23 @@
 # Alternatives to US-Based Services
 
 A curated list of non-US-based alternatives to popular services, focusing on privacy and global accessibility.
+## Table of Contents
+- [Email Services](#email-services)
+- [Search Engines](#search-engines)
+- [Cloud Storage](#cloud-storage)
+- [Messaging Apps](#messaging-apps)
+- [Social Media](#social-media)
+- [Video Hosting](#video-hosting)
+- [Office Suites](#office-suites)
+- [Web Browsers](#web-browsers)
+- [Video Conferencing](#video-conferencing)
+- [Operating Systems](#operating-systems)
+- [E-Commerce](#e-commerce)
+- [Money Transfer](#money-transfer)
+- [News Curation](#news-curation)
+- [File Sharing](#file-sharing)
+- [Music Streaming](#music-streaming)
+- [Contributions](#contributions)
 
 ## Email Services
 - **ProtonMail** 🇨🇭: Encrypted and privacy-focused. [Website](https://protonmail.com)
