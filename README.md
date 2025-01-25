@@ -86,11 +86,11 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 
 Contributions are welcome! 🎉
 
-Here’s how you can help:
+How YOU can help:
 1. **Suggest new entries**: Open an issue on GitHub with your suggestion.
 2. **Submit a pull request**: Add your entry directly by forking the repository and submitting a pull request.
 
 Follow this format for new entries:
 `- **Service Name** (Country): Description. [Website Link]`
 
-Let’s grow this list together. 
+Let’s grow this list together! 
