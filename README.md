@@ -55,8 +55,11 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 
 ## Office Suites
 - **OnlyOffice** 🇱🇻: Open-source office suite. [Website](https://onlyoffice.com)
-- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.com)
-- **LibreOffice** 🌐: Free and open-source. [Website](https://libreoffice.org)
+- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.- **Zoho Docs** 🇮🇳: A robust cloud-based office suite with excellent collaboration tools and integration options. [Website](https://www.zoho.com/docs/)
+
+- **CryptPad** 🇫🇷: A privacy-focused, encrypted alternative to Google Docs. Perfect for secure document collaboration without compromising usability. [Website](https://cryptpad.fr)
+
+- **Nextcloud Office** 🇩🇪: Integrated with the Nextcloud cloud storage platform, offering collaborative document editing with strong privacy protections. [Website](https://nextcloud.com/collaboraonline/)
 
 ## Web Browsers
 - **Vivaldi** 🇳🇴: Privacy-focused browser. [Website](https://vivaldi.com)
