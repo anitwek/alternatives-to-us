@@ -17,6 +17,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [News Curation](#news-curation)
 - [File Sharing](#file-sharing)
 - [Music Streaming](#music-streaming)
+- [AI Chatbots](#ai-chatbots)
 - [Contributions](#contributions)
 
 ## Email Services
@@ -98,6 +99,10 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - **Deezer** 🇫🇷: Global music streaming. [Website](https://deezer.com)
 - **Qobuz** 🇫🇷: High-resolution streaming. [Website](https://qobuz.com)
 - **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
+
+## AI Chatbots
+- **DeepSeek** 🌐: open-source alternative to ChatGPT.  
+  DeepSeek R1 stands out because it is open-source, allows users to tweak, improve, and even remove limitations over time. Unlike ChatGPT, which is closed-source and subject to OpenAI's restrictions, DeepSeek R1 gives the community freedom to customise the model to fit their needs. [https://www.deepseek.com]
 
 ## Contributions
 
