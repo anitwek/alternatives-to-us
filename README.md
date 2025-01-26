@@ -18,7 +18,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [File Sharing](#file-sharing)
 - [Music Streaming](#music-streaming)
 - [AI Chatbots](#ai-chatbots)
-- [Maps/Navigation](#maps)
+- [Maps/Navigation](#maps-navigation)
 - [Contributions](#contributions)
 
 ## Email Services
