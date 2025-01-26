@@ -113,6 +113,9 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 
 ## Maps/Navigation
 - **Mapy** 🇨🇿 - strong alternative to Google Maps, especially for users in Europe and those looking for a privacy-focused mapping service; FREE, detailed maps, offline maps, navigation, privacy-focused, travel info. [Website](https://en.mapy.cz)
+- **OpenStreetMap** 🌐 (Global): A community-driven, open-source mapping platform.  Provides highly customisable maps and is used by many third-party apps. [Website](https://www.openstreetmap.org)
+- **Here WeGo** 🇩🇪 (Germany): Offers free navigation with offline maps and real-time traffic updates.  
+  Great for driving, cycling, and walking. [Website](https://wego.here.com)
 
 ## Contributions
 
