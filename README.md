@@ -118,6 +118,7 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Deezer** 🇫🇷: Global music streaming. [Website](https://deezer.com)
 - **Qobuz** 🇫🇷: High-resolution streaming. [Website](https://qobuz.com)
 - **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
+- **Jamendo** 🇱🇺:Free music streaming. [Website](https://www.jamendo.com/)
 
 ## AI Chatbots
 - **DeepSeek** 🌐: open-source alternative to ChatGPT.  
