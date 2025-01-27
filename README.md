@@ -124,6 +124,7 @@ The following programs are developed and operated entirely in Europe with no tie
   DeepSeek R1 stands out because it is open-source, allows users to tweak, improve, and even remove limitations over time. Unlike ChatGPT, which is closed-source and subject to OpenAI's restrictions, DeepSeek R1 gives the community freedom to customise the model to fit their needs. [Website](https://www.deepseek.com)
 - **Mistral AI** 🇫🇷: cutting-edge open-source AI company, creates advanced, unrestricted AI models;  fully open-source, flexibility and transparency for developers. Committed to privacy and innovation, strong alternative to closed-source AI like ChatGPT. 
   [Website](https://www.mistral.ai)
+- **Bielik AI** 🇵🇱: open-source chatbot with a unique approach to information delivery. Bielik provides accurate and reliable responses while being transparent about potential halucinations. Continuously developed by an open, active community. [Website](https://bielik.ai/)
 
 ## Maps/Navigation
 - **Mapy** 🇨🇿 - strong alternative to Google Maps, especially for users in Europe and those looking for a privacy-focused mapping service; FREE, detailed maps, offline maps, navigation, privacy-focused, travel info. [Website](https://en.mapy.cz)
