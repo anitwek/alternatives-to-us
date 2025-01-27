@@ -7,6 +7,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [Cloud Storage](#cloud-storage)
 - [Messaging Apps](#messaging-apps)
 - [Social Media](#social-media)
+- [Antivirus Programs](#antivirus-programs)
 - [Video Hosting](#video-hosting)
 - [Office Suites](#office-suites)
 - [Web Browsers](#web-browsers)
@@ -49,6 +50,19 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - **Pixelfed** 🇨🇦: Decentralised social network alternative to Instagram. [Website](https://pixelfed.org)
 - **Steemit** 🌐: Decentralised blogging platform (blockchain-based). [Website](https://steemit.com)
 
+## Antivirus Programs
+The following programs are developed and operated entirely in Europe with no ties to the US or Russia. They are not tied to the US Patriot Act, nor US CLOUD Act, which means your data is safe.
+- **ESET NOD32 Antivirus** 🇸🇰: Fully based in Europe with no ties to the US; robust malware protection, ransomware defence, lightweight design.  
+  [Website](https://www.eset.com)
+- **G DATA Antivirus** 🇩🇪: German company with strict compliance to GDPR and European privacy laws; dual-engine malware scanning, advanced internet security.  
+  [Website](https://www.gdata.de)
+- **Avira Antivirus** 🇩🇪: Germany-based antivirus with privacy-focused features and independent operation; excellent malware detection, reliable free version.  
+  [Website](https://www.avira.com)
+- **F-Secure** 🇫🇮: Finnish security company known for excellent privacy policies, independent operation. Includes banking protection and secure browsing features.  
+  [Website](https://www.f-secure.com)
+- **Panda Security** 🇪🇸: Spanish cybersecurity company; lightweight, cloud-based antivirus solutions, good protection with minimal impact on system performance.  
+  [Website](https://www.pandasecurity.com)
+  
 ## Video Hosting
 - **Peertube** 🇫🇷: Decentralised video hosting. [Website](https://joinpeertube.org)
 - **Dailymotion** 🇫🇷: Video sharing platform. [Website](https://dailymotion.com)
