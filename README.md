@@ -70,7 +70,7 @@ The following programs are developed and operated entirely in Europe with no tie
 
 ## Office Suites
 - **OnlyOffice** 🇱🇻: Open-source office suite. [Website](https://onlyoffice.com)
-- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.
+- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice)
 -  **Zoho Docs** 🇮🇳: A robust cloud-based office suite with excellent collaboration tools and integration options. [Website](https://www.zoho.com/docs/)
 
 - **CryptPad** 🇫🇷: A privacy-focused, encrypted alternative to Google Docs. Perfect for secure document collaboration without compromising usability. [Website](https://cryptpad.fr)
@@ -79,7 +79,6 @@ The following programs are developed and operated entirely in Europe with no tie
 
 ## Web Browsers
 - **Vivaldi** 🇳🇴: Privacy-focused browser. [Website](https://vivaldi.com)
-- **Brave** 🌐: Privacy-oriented browser with ad-blocking. [Website](https://brave.com)
 - **Opera** 🇳🇴: Built-in VPN, additional features. [Website](https://opera.com)
 
 ## Video Conferencing
@@ -105,7 +104,6 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Klarna** 🇸🇪: Payment solutions including "buy now, pay later." [Website](https://klarna.com)
 
 ## News Curation
-- **Flipboard** 🌐: News curation platform. [Website](https://flipboard.com)
 - **Feedly** 🌐: News aggregator and RSS reader. [Website](https://feedly.com)
 - **Inoreader** 🇧🇬: Advanced RSS feed reader. [Website](https://inoreader.com)
 
