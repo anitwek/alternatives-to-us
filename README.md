@@ -81,7 +81,7 @@ This list is a **community-driven effort** and we encourage:
 - **Wire** 🇨🇭🇩🇪: Enterprise-grade secure messaging. [Website](https://wire.com)
 
 ## Social Media
-- **Mastodon** 🇩🇪: Decentralised social network alternative to Twitter. [Website](https://joinmastodon.org)  
+- **Mastodon** 🇩🇪🌐: German origins, but a global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. [Website](https://joinmastodon.org)  
 - **Loops** 🇪🇺: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
 - **PeerTube** 🇫🇷: Federated, ad-free video hosting alternative to YouTube. [Website](https://joinpeertube.org)  
 - **Friendica** 🇪🇺: Open-source, decentralised social network alternative to Facebook. [Website](https://friendi.ca)  
