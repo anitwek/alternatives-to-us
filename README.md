@@ -131,7 +131,7 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Here WeGo** 🇩🇪: Offers free navigation with offline maps and real-time traffic updates.  
   Great for driving, cycling, and walking. [Website](https://wego.here.com)
 
-## Gaming Platforms/Steam Alternative
+## Gaming Platforms/Steam Alternatives
 - **GOG** 🇵🇱: DRM-free gaming, great for classics. [Website](https://gog.com)
 - **Lutris** 🇫🇷: Open-source gaming platform, supports Linux. [Website](https://lutris.net)
   
