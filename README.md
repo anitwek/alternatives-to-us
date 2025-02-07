@@ -16,9 +16,9 @@ A collectively curated list of non-US-based alternatives to popular services, be
 *While not every service on this list is completely free from international surveillance networks (**Five Eyes, Nine Eyes, 14 Eyes, PRISM, FISA, etc.**), we still want to:  
 
 ✔ **Reduce reliance on US Big Tech & surveillance-heavy platforms.**  
-✔ **Promote services that respect user privacy better than their mainstream counterparts.**  
-✔ **Encourage transparency by allowing the community to vet and flag questionable alternatives.** 
-✔ **Encourage global accessibility** by promoting platforms available to users worldwide without geopolitical restrictions. 
+✔ **Promote services that respect user privacy better than their mainstream counterparts.** 
+✔ **Encourage transparency by allowing the community to vet and flag questionable alternatives.**
+ ✔ **Encourage global accessibility** by promoting platforms available to users worldwide without geopolitical restrictions.
 ✔ **Break free from corporate monopolies** that push anti-competitive policies and exploit user data. 
 
 ---
@@ -29,7 +29,7 @@ This list is a **community-driven effort** and we encourage:
 ✔ **Contributions** – If you know of a service that fits, submit it!  
 ✔ **Verification** – If a service **claims** to be privacy-friendly but has questionable policies, leave a comment for discussion.  
 ✔ **Transparency** – If an entry is **funded by or connected to US interests**, flag it for review.
-✔ **Continuous Improvement** – **The main goal is to refine and shorten this list, prioritizing ONLY services that are truly independent from Five Eyes & similar surveillance networks.** 
+✔ **Continuous Improvement**: **The MAIN GOAL is to refine and shorten this list, prioritizing ‼️ONLY‼️ services that are truly independent from Five Eyes & similar surveillance networks.** 
 
 ---
 
