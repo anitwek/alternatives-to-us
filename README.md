@@ -24,6 +24,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [Contributions](#contributions)
 
 ## Email Services
+- **Mailbox.org** 🇩🇪: Strong EU privacy laws (GDPR applies); End-to-End Encryption; No Ads, No Tracking → Unlike Gmail, Outlook, etc.; Custom Domain Support; Supports PGP Encryption; Runs on Green Energy (huge plus!) [Website](https://mailbox.org)
 - **ProtonMail** 🇨🇭: Encrypted and privacy-focused. [Website](https://protonmail.com)
 - **Tutanota** 🇩🇪: Secure and private. [Website](https://tutanota.com)
 - **Mailfence** 🇧🇪: Privacy-focused with additional features. [Website](https://mailfence.com)
