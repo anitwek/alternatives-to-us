@@ -1,4 +1,4 @@
-# Non-U.S. Alternatives List 🇪🇺🌍
+# Non-U.S. Alternatives List
 
 A collectively curated list of non-US-based alternatives to popular services, because it is time to prioritise our privacy, security, and digital sovereignty.
 
