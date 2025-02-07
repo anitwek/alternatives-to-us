@@ -81,11 +81,11 @@ This list is a **community-driven effort** and we encourage:
 - **Wire** 🇨🇭🇩🇪: Enterprise-grade secure messaging. [Website](https://wire.com)
 
 ## Social Media
-- **Mastodon** 🇩🇪🌐: German origins, but a global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. [Website](https://joinmastodon.org)  
+- **Mastodon** 🌐: global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. Originally created by a German 🇩🇪 [Website](https://joinmastodon.org)  
 - **Loops** 🇪🇺: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
 - **PeerTube** 🇫🇷: Federated, ad-free video hosting alternative to YouTube. [Website](https://joinpeertube.org)  
 - **Friendica** 🇪🇺: Open-source, decentralised social network alternative to Facebook. [Website](https://friendi.ca)  
-- **Pixelfed** 🇨🇦: Decentralised social network alternative to Instagram. [Website](https://pixelfed.org)  
+- **Pixelfed** 🌐: open-source, decentralised social network alternative to Instagram. Originally created by a Canadian🇨🇦 [Website](https://pixelfed.org)  
 - **Lemmy** 🌍: Federated discussion platform alternative to Reddit. [Website](https://join-lemmy.org)  
 - **Pixelfed** 🇨🇦: Decentralised social network alternative to Instagram. [Website](https://pixelfed.org)
 - **Steemit** 🌐: Decentralised blogging platform (blockchain-based). [Website](https://steemit.com)
