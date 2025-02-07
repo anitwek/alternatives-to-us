@@ -20,7 +20,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [Music Streaming](#music-streaming)
 - [AI Chatbots](#ai-chatbots)
 - [Maps/Navigation](#mapsnavigation)
-- [Gaming Platforms/Steam Alternatives](#gamingplatformssteamalternatives)
+- [Gaming Platforms/Steam Alternatives](#gaming-platformssteam-alternatives)
 - [Contributions](#contributions)
 
 ## Email Services
