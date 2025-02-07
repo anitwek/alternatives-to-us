@@ -20,6 +20,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [Music Streaming](#music-streaming)
 - [AI Chatbots](#ai-chatbots)
 - [Maps/Navigation](#mapsnavigation)
+- [Gaming Platforms/Steam Alternatives](#gamingplatformssteamalternatives)
 - [Contributions](#contributions)
 
 ## Email Services
@@ -130,6 +131,10 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Here WeGo** 🇩🇪: Offers free navigation with offline maps and real-time traffic updates.  
   Great for driving, cycling, and walking. [Website](https://wego.here.com)
 
+## Gaming Platforms/Steam Alternative
+- **GOG** 🇵🇱: DRM-free gaming, great for classics. [Website](https://gog.com)
+- **Lutris** 🇫🇷: Open-source gaming platform, supports Linux. [Website](https://lutris.net)
+  
 ## Contributions
 
 Contributions are welcome! 🎉
