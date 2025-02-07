@@ -80,8 +80,8 @@ The following programs are developed and operated entirely in Europe with no tie
 
 ## Web Browsers
 - **Vivaldi** 🇳🇴: Privacy-focused browser. [Website](https://vivaldi.com)
-- **Brave** 🌐: Privacy-oriented browser with ad-blocking. [Website](https://brave.com)
 - **Opera** 🇳🇴: Built-in VPN, additional features. [Website](https://opera.com)
+- **Mullvad Browser** 🇸🇪: Built with Tor developers, privacy-focused. [Website](https://mullvad.net/en/browser)
 
 ## Video Conferencing
 - **Jitsi Meet** 🌐: Open-source, encrypted. [Website](https://jitsi.org)
