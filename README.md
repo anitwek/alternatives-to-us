@@ -10,16 +10,16 @@ A collectively curated list of non-US-based alternatives to popular services, be
 
 ## 📌 Why This List Matters
 
-**Big Tech monopolies track, monetize, spy on us and control our digital lives**. Now, it's more important than ever to **seek independent alternatives** that respect user rights. This list aims to:  
+**Big Tech monopolies track, monetize, spy on us and control our digital lives**. Now, it's more important than ever to **seek independent alternatives** that respect user rights. 
+This list aims to:  
 
-✔ **Promote data privacy.**
-*While not every service on this list is completely free from international surveillance networks (**Five Eyes, Nine Eyes, 14 Eyes, PRISM, FISA, etc.**), we still want to:  
-
-✔ **Reduce reliance on US Big Tech & surveillance-heavy platforms.**  
-✔ **Promote services that respect user privacy better than their mainstream counterparts.** 
-✔ **Encourage transparency by allowing the community to vet and flag questionable alternatives.**
- ✔ **Encourage global accessibility** by promoting platforms available to users worldwide without geopolitical restrictions.
-✔ **Break free from corporate monopolies** that push anti-competitive policies and exploit user data. 
+✔️ **Promote data privacy.**  
+*While not every service on this list is entirely free from international surveillance networks (**Five Eyes, Nine Eyes, 14 Eyes, PRISM, FISA, etc.**), our mission is to promote alternatives that reduce dependency on them and enhance user privacy. Over time, we aim to refine this list, keeping only the safest and most secure services.*  
+✔️ **Reduce reliance on U.S. Big Tech & surveillance-heavy platforms.**  
+✔️ **Promote services that respect user privacy better than their mainstream counterparts.**  
+✔️ **Encourage transparency by allowing the community to vet and flag questionable alternatives.**  
+✔️ **Encourage global accessibility by promoting platforms available to users worldwide without geopolitical restrictions.**  
+✔️ **Break free from corporate monopolies that push anti-competitive policies and exploit user data.**  
 
 ---
 ## 📌 Contributing & Vetting
