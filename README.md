@@ -122,6 +122,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Deezer** 🇫🇷: Global music streaming. [Website](https://deezer.com)
 - **Qobuz** 🇫🇷: High-resolution streaming. [Website](https://qobuz.com)
 - **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
+- **Jamendo** 🇱🇺:Free music streaming. [Website](https://www.jamendo.com/)
 
 ## AI Chatbots
 - **DeepSeek** 🌐: open-source alternative to ChatGPT; allows users to tweak, improve, and remove limitations over time. ChatGPT is closed-source, subject to OpenAI's restrictions and forces you to subscribe to premium because the free version is useless. DeepSeek is 100% free. [Website](https://www.deepseek.com)
