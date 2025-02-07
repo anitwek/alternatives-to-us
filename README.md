@@ -21,6 +21,7 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - [AI Chatbots](#ai-chatbots)
 - [Maps/Navigation](#mapsnavigation)
 - [Gaming Platforms/Steam Alternatives](#gaming-platformssteam-alternatives)
+- [More EU-Based Alternatives & Resources](#more-eu-based-alternatives--resources)  ← **(NEW SECTION!)**
 - [Contributions](#contributions)
 
 ## Email Services
@@ -144,10 +145,15 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 ## Gaming Platforms/Steam Alternatives
 - **GOG** 🇵🇱: DRM-free gaming, great for classics. [Website](https://gog.com)
 - **Lutris** 🇫🇷: Open-source gaming platform, supports Linux. [Website](https://lutris.net)
+
+## More EU-Based Alternatives & Resources
+
+Looking for even more EU-based services? Check out this **comprehensive list** of alternatives that prioritize privacy, security, and independence from U.S. Big Tech:  
+
+- **Ultimate List of EU-Based Alternatives** 🇪🇺: Covers even more social media, cloud storage, emails, VPNs, payments, and more. [Website](https://european-alternatives.eu/alternatives-to)
   
 ## Contributions
-
-Contributions are welcome! 🎉
+Contributions are still welcome! 🎉
 
 How YOU can help:
 1. **Suggest new entries**: Open an issue on GitHub with your suggestion.
