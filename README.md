@@ -127,6 +127,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **DeepSeek** 🌐: open-source alternative to ChatGPT; allows users to tweak, improve, and remove limitations over time. ChatGPT is closed-source, subject to OpenAI's restrictions and forces you to subscribe to premium because the free version is useless. DeepSeek is 100% free. [Website](https://www.deepseek.com)
 - **Mistral AI** 🇫🇷: fully open-source, flexibility and transparency for developers. Committed to privacy and innovation, strong alternative to closed-source AI like ChatGPT. Mistral (also called Le Chat) is 100% free, unlike ChatGPT that forces you to pay their subscription because their free version is weak.
   [Website](https://www.mistral.ai)
+- **Bielik AI** 🇵🇱: open-source chatbot with a unique approach to information delivery. Bielik provides accurate and reliable responses while being transparent about potential halucinations. Continuously developed by an open, active community. [Website](https://bielik.ai/)
 
 ## Maps/Navigation
 - **Mapy** 🇨🇿 - strong alternative to Google Maps, especially for users in Europe and those looking for a privacy-focused mapping service; FREE, detailed maps, offline maps, navigation, privacy-focused, travel info. [Website](https://en.mapy.cz)
