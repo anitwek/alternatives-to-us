@@ -148,7 +148,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 ## More EU-Based Alternatives & Resources
 
-Looking for even more EU-based services? Check out this **comprehensive list** of alternatives that prioritize privacy, security, and independence from U.S. Big Tech:  
+🔔 Looking for even more EU-based services? Check out this **comprehensive list** of alternatives that prioritize privacy (GDPR), security, and independence from US Big Tech:  
 
 - **Ultimate List of EU-Based Alternatives** 🇪🇺: Covers even more social media, cloud storage, emails, VPNs, payments, and more. [Website](https://european-alternatives.eu/alternatives-to)
   
