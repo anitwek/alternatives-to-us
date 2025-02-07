@@ -120,9 +120,8 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
 
 ## AI Chatbots
-- **DeepSeek** 🌐: open-source alternative to ChatGPT.  
-  DeepSeek R1 stands out because it is open-source, allows users to tweak, improve, and even remove limitations over time. Unlike ChatGPT, which is closed-source and subject to OpenAI's restrictions, DeepSeek R1 gives the community freedom to customise the model to fit their needs. [Website](https://www.deepseek.com)
-- **Mistral AI** 🇫🇷: cutting-edge open-source AI company, creates advanced, unrestricted AI models;  fully open-source, flexibility and transparency for developers. Committed to privacy and innovation, strong alternative to closed-source AI like ChatGPT. 
+- **DeepSeek** 🌐: open-source alternative to ChatGPT; allows users to tweak, improve, and remove limitations over time. ChatGPT is closed-source, subject to OpenAI's restrictions and forces you to subscribe to premium because the free version is useless. DeepSeek is 100% free. [Website](https://www.deepseek.com)
+- **Mistral AI** 🇫🇷: fully open-source, flexibility and transparency for developers. Committed to privacy and innovation, strong alternative to closed-source AI like ChatGPT. Mistral (also called Le Chat) is 100% free, unlike ChatGPT that forces you to pay their subscription because their free version is weak.
   [Website](https://www.mistral.ai)
 
 ## Maps/Navigation
