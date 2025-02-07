@@ -184,7 +184,9 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 - **Ultimate List of EU-Based Alternatives** 🇪🇺: Covers even more social media, cloud storage, emails, VPNs, payments, and more. [Website](https://european-alternatives.eu/alternatives-to)
   
-📌 ## Contributions
+📌
+## Contributions
+
 Contributions are still welcome! 🎉
 
 How YOU can help:
