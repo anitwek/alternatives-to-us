@@ -48,7 +48,12 @@ A curated list of non-US-based alternatives to popular services, focusing on pri
 - **Wire** 🇨🇭🇩🇪: Enterprise-grade secure messaging. [Website](https://wire.com)
 
 ## Social Media
-- **Mastodon** 🇩🇪: Decentralised alternative to Twitter. [Website](https://joinmastodon.org)
+- **Mastodon** 🇩🇪: Decentralised social network alternative to Twitter. [Website](https://joinmastodon.org)  
+- **Loops** 🇪🇺: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
+- **PeerTube** 🇫🇷: Federated, ad-free video hosting alternative to YouTube. [Website](https://joinpeertube.org)  
+- **Friendica** 🇪🇺: Open-source, decentralised social network alternative to Facebook. [Website](https://friendi.ca)  
+- **Pixelfed** 🇨🇦: Decentralised social network alternative to Instagram. [Website](https://pixelfed.org)  
+- **Lemmy** 🌍: Federated discussion platform alternative to Reddit. [Website](https://join-lemmy.org)  
 - **Pixelfed** 🇨🇦: Decentralised social network alternative to Instagram. [Website](https://pixelfed.org)
 - **Steemit** 🌐: Decentralised blogging platform (blockchain-based). [Website](https://steemit.com)
 
