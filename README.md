@@ -71,6 +71,8 @@ The following programs are developed and operated entirely in Europe with no tie
 - **Odysee** 🌐: Decentralised, blockchain-based video sharing. [Website](https://odysee.com)
 
 ## Office Suites
+- **LibreOffice** 🌐: 100% free open-source office suite, developed by a German🇩🇪-based non-profit but contributed to by a global community!
+offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .pptx, etc.); No Tracking, No Cloud Lock-In. Unlike Microsoft Office, LibreOffice doesn’t collect data or force cloud storage; Runs on Windows, macOS, Linux.
 - **OnlyOffice** 🇱🇻: Open-source office suite. [Website](https://onlyoffice.com)
 - **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.
 -  **Zoho Docs** 🇮🇳: A robust cloud-based office suite with excellent collaboration tools and integration options. [Website](https://www.zoho.com/docs/)
