@@ -1,6 +1,38 @@
-# Alternatives to US-Based Services
+# Non-U.S. Alternatives List 🇪🇺🌍
 
-A curated list of non-US-based alternatives to popular services, focusing on privacy and global accessibility.
+A collectively curated list of non-US-based alternatives to popular services, because it is time to prioritise our privacy, security, and digital sovereignty.
+
+## 🚨 Did you know?  
+
+✔ Under the **US PATRIOT Act**, any data stored on US-based services can be accessed by the government—without your consent.  
+✔ The **Five Eyes alliance** (US, UK, Canada, Australia, New Zealand) shares intelligence, meaning your private info can be surveilled across multiple countries.  
+✔ **Even non-US services can be pressured to hand over data if they have servers or operations in the US**
+
+## 📌 Why This List Matters
+
+**Big Tech monopolies track, monetize, spy on us and control our digital lives**. Now, it's more important than ever to **seek independent alternatives** that respect user rights. This list aims to:  
+
+✔ **Promote data privacy.**
+*While not every service on this list is completely free from international surveillance networks (**Five Eyes, Nine Eyes, 14 Eyes, PRISM, FISA, etc.**), we still want to:  
+
+✔ **Reduce reliance on US Big Tech & surveillance-heavy platforms.**  
+✔ **Promote services that respect user privacy better than their mainstream counterparts.**  
+✔ **Encourage transparency by allowing the community to vet and flag questionable alternatives.** 
+✔ **Encourage global accessibility** by promoting platforms available to users worldwide without geopolitical restrictions. 
+✔ **Break free from corporate monopolies** that push anti-competitive policies and exploit user data. 
+
+---
+## 📌 Contributing & Vetting
+
+This list is a **community-driven effort** and we encourage:  
+
+✔ **Contributions** – If you know of a service that fits, submit it!  
+✔ **Verification** – If a service **claims** to be privacy-friendly but has questionable policies, leave a comment for discussion.  
+✔ **Transparency** – If an entry is **funded by or connected to US interests**, flag it for review.
+✔ **Continuous Improvement** – **The main goal is to refine and shorten this list, prioritizing ONLY services that are truly independent from Five Eyes & similar surveillance networks.** 
+
+---
+
 ## Table of Contents
 - [Email Services](#email-services)
 - [Search Engines](#search-engines)
@@ -152,7 +184,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 - **Ultimate List of EU-Based Alternatives** 🇪🇺: Covers even more social media, cloud storage, emails, VPNs, payments, and more. [Website](https://european-alternatives.eu/alternatives-to)
   
-## Contributions
+📌 ## Contributions
 Contributions are still welcome! 🎉
 
 How YOU can help:
@@ -162,4 +194,9 @@ How YOU can help:
 Follow this format for new entries:
 `- **Service Name** (Country): Description. [Website Link]`
 
-Let’s grow this list together! 
+📌 ## Vetting
+
+1. If a service claims to be privacy-friendly but has questionable policies, leave a comment for discussion.
+2. If an entry is funded by or connected to US interests, flag it for review.
+
+LET'S GROW THIS LIST TOGETHER! 🌐
