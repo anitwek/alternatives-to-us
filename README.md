@@ -4,9 +4,9 @@ A collectively curated list of non-US-based alternatives to popular services, be
 
 ## 🚨 Did you know?  
 
-✔ Under the **US PATRIOT Act**, any data stored on US-based services can be accessed by the government—without your consent.  
-✔ The **Five Eyes alliance** (US, UK, Canada, Australia, New Zealand) shares intelligence, meaning your private info can be surveilled across multiple countries.  
-✔ **Even non-US services can be pressured to hand over data if they have servers or operations in the US**
+🚩 Under the **US PATRIOT Act**, any data stored on US-based services can be accessed by the government—without your consent.  
+🚩 The **Five Eyes alliance** (US, UK, Canada, Australia, New Zealand) shares intelligence, meaning your private info can be surveilled across multiple countries.  
+🚩 **Even non-US services can be pressured to hand over data if they have servers or operations in the US**
 
 ## 📌 Why This List Matters
 
