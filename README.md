@@ -2,11 +2,19 @@
 
 A collectively curated list of non-US-based alternatives to popular services, because it is time to prioritise our privacy, security, and digital sovereignty.
 
-## 🚨 Did you know?  
+## 🚨 Did You Know? 
 
-🚩 Under the **US PATRIOT Act**, any data stored on US-based services can be accessed by the government WITHOUT your consent.  
-🚩 The **Five Eyes alliance** (US, UK, Canada, Australia, New Zealand) shares intelligence, meaning your private info can be surveilled across multiple countries.  
-🚩 **Even non-US services can be pressured to hand over data if they have servers or operations in the US**
+🚩 **If you use a US-based service, your private data is NOT yours.**  
+
+🚩 **The US PATRIOT Act** lets the government **access your data WITHOUT your consent**—no warrant needed. Yes, even if you're not American.  
+
+🚩 **The Five Eyes Alliance (US, UK, Canada, Australia, New Zealand)** means that if **one country gets your data, they ALL get it.** Your info can be passed around intelligence agencies **without you knowing.**  
+
+🚩 **Even if you use a non-US service, you’re NOT safe.** If the company has **servers, offices, or employees in the US,** it can be legally forced to **hand over your data to the US government.**  
+
+🚩 **Big Tech is NOT your friend.** Companies like Google, Apple, Microsoft, and Amazon **comply with these laws** and **give your info to intelligence agencies on request.**  
+
+🚩 **Once your data is in their hands, it NEVER disappears.** Even **deleted files, old emails, and private messages** can be **stored, recovered, and used against you.**  
 
 ## 📌 Why This List Matters
 
