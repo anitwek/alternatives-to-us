@@ -99,6 +99,7 @@ This list is a **community-driven effort** and we encourage:
 
 ## Antivirus Programs
 The following programs are developed and operated entirely in Europe with no ties to the US or Russia. They are not tied to the US Patriot Act, nor US CLOUD Act, which means your data is safe.
+- **Bitdefender** 🇷🇴: Romanian cybersecurity company known for its AI-driven threat detection; strong malware protection; low system impact; EU jurisdiction, GDPR applies; no direct US intelligence ties. 
 - **ESET NOD32 Antivirus** 🇸🇰: Fully based in Europe with no ties to the US; robust malware protection, ransomware defence, lightweight design.  
   [Website](https://www.eset.com)
 - **G DATA Antivirus** 🇩🇪: German company with strict compliance to GDPR and European privacy laws; dual-engine malware scanning, advanced internet security.  
