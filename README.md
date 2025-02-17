@@ -90,7 +90,7 @@ This list is a **community-driven effort** and we encourage:
 
 ## Social Media
 - **Mastodon** 🌐: global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. Originally created by a German 🇩🇪 [Website](https://joinmastodon.org)  
-- **Loops** 🇪🇺: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
+- **Loops** 🇨🇦: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.video)  
 - **PeerTube** 🇫🇷: Federated, ad-free video hosting alternative to YouTube. [Website](https://joinpeertube.org)  
 - **Friendica** 🇪🇺: Open-source, decentralised social network alternative to Facebook. [Website](https://friendi.ca)  
 - **Pixelfed** 🌐: open-source, decentralised social network alternative to Instagram. Originally created by a Canadian🇨🇦 [Website](https://pixelfed.org)  
