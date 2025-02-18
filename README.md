@@ -120,7 +120,7 @@ The following programs are developed and operated entirely in Europe with no tie
 - **LibreOffice** 🌐: 100% free open-source office suite, developed by a German🇩🇪-based non-profit but contributed to by a global community!
 offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .pptx, etc.); No Tracking, No Cloud Lock-In. Unlike Microsoft Office, LibreOffice doesn’t collect data or force cloud storage; Runs on Windows, macOS, Linux.
 - **OnlyOffice** 🇱🇻: Open-source office suite. [Website](https://onlyoffice.com)
-- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.
+- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice)
 -  **Zoho Docs** 🇮🇳: A robust cloud-based office suite with excellent collaboration tools and integration options. [Website](https://www.zoho.com/docs/)
 
 - **CryptPad** 🇫🇷: A privacy-focused, encrypted alternative to Google Docs. Perfect for secure document collaboration without compromising usability. [Website](https://cryptpad.fr)
@@ -155,7 +155,6 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Klarna** 🇸🇪: Payment solutions including "buy now, pay later." [Website](https://klarna.com)
 
 ## News Curation
-- **Flipboard** 🌐: News curation platform. [Website](https://flipboard.com)
 - **Feedly** 🌐: News aggregator and RSS reader. [Website](https://feedly.com)
 - **Inoreader** 🇧🇬: Advanced RSS feed reader. [Website](https://inoreader.com)
 
